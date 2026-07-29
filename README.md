@@ -194,3 +194,11 @@ Open To:
   - Senior Mobile Engineer Roles
   - AI/ML Engineering Opportunities
   - Open Source Collaborations
+
+📫 Connect With Me
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Innovate%20%7C%20Create%20%7C%20Inspire&fontSize=20&fontColor=ffffff&animation=twinkling"/> </p><p align="center"> <i>"Building scalable, user-centric mobile solutions that leverage cutting-edge AI capabilities."</i> <br> <b>🔥 Muhammad Ahmed | React Native | AI Enthusiast | SSUET</b> </p> ```
