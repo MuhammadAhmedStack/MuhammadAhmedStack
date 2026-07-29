@@ -154,10 +154,10 @@ Currently deepening backend expertise by building a robust CRUD REST API using A
 ---
 
 <!-- GitHub Analytics -->
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmedStack&show_icons=true&theme=dark" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAhmedStack&show_icons=true&theme=dark)
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.verma.vercel.app/?username=MuhammadAhmedStack&theme=onedark" alt="GitHub Trophies" />
+![GitHub Trophies](https://github-profile-trophy.verma.vercel.app/?username=MuhammadAhmedStack&theme=onedark)
 
 <!-- Contribution Graph -->
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
@@ -170,9 +170,9 @@ Currently deepening backend expertise by building a robust CRUD REST API using A
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadAhmedStack/MuhammadAhmedStack/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadAhmedStack/MuhammadAhmedStack/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/MuhammadAhmedStack/MuhammadAhmedStack/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadAhmedStack/MuhammadAhmedStack/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadAhmedStack/MuhammadAhmedStack/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MuhammadAhmedStack/MuhammadAhmedStack/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
