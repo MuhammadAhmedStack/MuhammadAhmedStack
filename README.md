@@ -153,11 +153,15 @@ Currently deepening backend expertise by building a robust CRUD REST API using A
 
 ---
 
-<!-- GitHub Analytics -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAhmedStack&show_icons=true&theme=dark)
+<!-- GitHub Analytics (HTML format to force render) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmedStack&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
-<!-- GitHub Trophies -->
-![GitHub Trophies](https://github-profile-trophy.verma.vercel.app/?username=MuhammadAhmedStack&theme=onedark)
+<!-- GitHub Trophies (HTML format to force render) -->
+<p align="center">
+  <img src="https://github-profile-trophy.verma.vercel.app/?username=MuhammadAhmedStack&theme=onedark" alt="GitHub Trophies" />
+</p>
 
 <!-- Contribution Graph -->
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
