@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Muhammad%20Ahmed&fontSize=40&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7B2FBE&center=true&vCenter=true&width=700&lines=Hi!+I'm+Muhammad+Ahmed;Mobile+Application+Developer;React+Native+%7C+AI+Enthusiast;Final+Year+CS+Student+%40+SSUET"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=7B2FBE&center=true&vCenter=true&width=800&lines=Mobile+Application+Developer;React+Native+%7C+AI+Enthusiast;Google+Gemini+API+Expert;Final+Year+CS+%40+SSUET;Building+Scalable+Mobile+Solutions"/>
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmedStack&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MuhammadAhmedStack?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/MuhammadAhmedStack?style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmedStack&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/MuhammadAhmedStack?style=social&label=Followers" />
+  <img src="https://img.shields.io/github/stars/MuhammadAhmedStack?style=social&label=Total+Stars" />
   <br>
-  <img src="https://img.shields.io/badge/SSUET-Academic-blueviolet?style=flat-square&logo=academia" />
-  <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-purple?style=flat-square&logo=google-maps" />
+  <img src="https://img.shields.io/badge/SSUET-Academic-blueviolet?style=flat-square&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-purple?style=flat-square&logo=google-maps&logoColor=white" />
   <a href="https://github.com/MuhammadAhmedStack"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammadahmedstack"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:muhammadahmed.stack@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -32,26 +32,9 @@ Specialized in **AI integration**, having implemented **Google Gemini Flash API*
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### Frontend & Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend, Databases & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cloud, DevOps & Tooling
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![EAS](https://img.shields.io/badge/EAS_Build-000000?style=for-the-badge&logo=expo&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,cs,dotnet,firebase,postgres,git,github,vscode" />
+</p>
 
 ---
 
@@ -153,32 +136,36 @@ Currently deepening backend expertise by building a robust CRUD REST API using A
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 GitHub Analytics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmedStack&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=MuhammadAhmedStack&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAhmedStack&theme=radical" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmedStack&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAhmedStack&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadAhmedStack&theme=radical" width="48%" />
+</p>
+
+---
+
+## ✨ Random Dev Quote (Har Refresh par Nayi)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAhmedStack&theme=radical&no-frame=true" />
-</p>
-
----
+<br><br> <!-- Yeh gap hai graph ko oper/neechay karne ke liye -->
 
 ## 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmedStack&theme=react-dark&bg_color=0D1117&color=7B2FBE&line=7B2FBE&point=FFFFFF&grid=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmedStack&theme=react-dark&bg_color=0D1117&color=7B2FBE&line=7B2FBE&point=FFFFFF" width="95%" />
 </p>
+
+<br><br> <!-- Yeh gap hai graph ke neechay -->
 
 ---
 
