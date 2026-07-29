@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=Muhammad%20Ahmed&fontSize=48&fontColor=C9B8FF&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20React%20Native%20%7C%20Google%20Gemini%20AI%20%7C%20Full-Stack&descAlignY=58&descSize=18" width="100%"/>
@@ -213,4 +212,4 @@ open_to:
 <div align="center">
 "Building scalable, user-centric mobile solutions that leverage cutting-edge AI capabilities."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=140&section=footer" width="100%"/></div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=140&section=footer" width="100%"/></div> 
