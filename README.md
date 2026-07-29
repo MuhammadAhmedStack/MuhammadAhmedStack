@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Muhammad%20Ahmed&fontSize=40&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7B2FBE&center=true&vCenter=true&width=700&lines=Hi!+I'm+Muhammad+Ahmed;Mobile+Application+Developer;React+Native+%7C+AI+Enthusiast;Final+Year+CS+Student+%40+SSUET"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=7B2FBE&center=true&vCenter=true&width=800&lines=Mobile+Application+Developer;React+Native+%7C+AI+Enthusiast;Google+Gemini+API+Expert;Final+Year+CS+%40+SSUET;Building+Scalable+Mobile+Solutions"/>
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmedStack&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MuhammadAhmedStack?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/MuhammadAhmedStack?style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAhmedStack&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/MuhammadAhmedStack?style=social&label=Followers" />
+  <img src="https://img.shields.io/github/stars/MuhammadAhmedStack?style=social&label=Total+Stars" />
   <br>
-  <img src="https://img.shields.io/badge/SSUET-Academic-blueviolet?style=flat-square&logo=academia" />
-  <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-purple?style=flat-square&logo=google-maps" />
+  <img src="https://img.shields.io/badge/SSUET-Academic-blueviolet?style=flat-square&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-purple?style=flat-square&logo=google-maps&logoColor=white" />
   <a href="https://github.com/MuhammadAhmedStack"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammadahmedstack"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:muhammadahmed.stack@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -153,20 +153,32 @@ Currently deepening backend expertise by building a robust CRUD REST API using A
 
 ---
 
-<!-- GitHub Analytics (HTML format to force render) -->
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmedStack&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmedStack&show_icons=true&theme=radical&bg_color=0D1117&border_color=7B2FBE" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=MuhammadAhmedStack&theme=radical&background=0D1117&border=7B2FBE" width="48%" />
 </p>
 
-<!-- GitHub Trophies (HTML format to force render) -->
 <p align="center">
-  <img src="https://github-profile-trophy.verma.vercel.app/?username=MuhammadAhmedStack&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmedStack&layout=compact&theme=radical&bg_color=0D1117&border_color=7B2FBE" width="45%" />
 </p>
 
-<!-- Contribution Graph -->
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmedStack&theme=react-dark" alt="Contribution Graph" />
-</a>
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAhmedStack&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmedStack&theme=react-dark&bg_color=0D1117&color=7B2FBE&line=7B2FBE&point=FFFFFF&grid=false&hide_border=true" width="90%" />
+</p>
 
 ---
 
