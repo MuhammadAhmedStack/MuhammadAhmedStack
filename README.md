@@ -171,7 +171,6 @@ Currently deepening backend expertise by building a robust CRUD REST API using A
 
 ## 🐍 Contribution Snake
 
-🐍 Contribution Snake
 <div align="center"> <img src="https://raw.githubusercontent.com/MuhammadAhmedStack/MuhammadAhmedstack/output/github-contribution-grid-snake-dark.svg"/> </div> <br/>
 
 ---
